@@ -266,7 +266,7 @@
 					 +"<'col-sm-6 col-md-6 col-lg-6'p>>>",
 				"buttons":[
 					{
-						"text":"<i class='fa fa-user-plus'></i>",
+						"text":"<i >+</i>",
 						"tittleAttr":"Agregar usuario",
 						"className":"btn btn-success",
 						"action":function(){
