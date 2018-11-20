@@ -38,7 +38,7 @@ header nav ul li {
 	float:left;
 }
 header li{
-	width: calc(100% /9); /* para que se simetricen los submenus */
+	width: calc(100% /8); /* para que se simetricen los submenus */
 } 
 header nav ul li a {
 	color:rgb(240, 233, 233);

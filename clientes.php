@@ -39,7 +39,6 @@
                             <li><a href="material.php"><span class="icon-linkedin2"></span>Materiales</a></li>
                             <li><a href="clientes.php"><span class="icon-profile"></span>Clientes</a></li>
                             <li><a href="cotizaciones.php"><span class="icon-file-text"></span>Cotizaciones</a></li>
-                            <li><a href="cotizaciones.php"><span class="icon-file-text"></span>Facturar</a></li>
                             <li><a href="historial.php"><span class="icon-file-text"></span>Historial</a></li>
                             <li><a href="cerrar_sesion.php"><img src="">SALIR</a></li>
                             </ul>
